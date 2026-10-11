@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.jelonschek.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Analista+de+Sistemas+na+Nootech;Backend+C%23+%2F+.NET+%2B+TypeScript;Criador+do+MiranteSEO%2C+SetupBarato+e+VitrineBeauty;Estudante+de+Engenharia+de+Software+na+UTFPR;Curioso+por+cyber+seguran%C3%A7a" alt="Texto digitando" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Analista+de+Sistemas;Backend+C%23+%2F+.NET+%2B+TypeScript;Criador+do+MiranteSEO%2C+SetupBarato+e+VitrineBeauty;Estudante+de+Engenharia+de+Software+na+UTFPR;Curioso+por+cyber+seguran%C3%A7a" alt="Texto digitando" />
   </a>
 </p>
 
